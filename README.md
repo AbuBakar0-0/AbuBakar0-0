@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Abu Bakar</h1>
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Graduate;MERN-STACK+Engineer;Problem+Solver;Web+Developer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<h3 align="center">Full Stack Developer at Bitnine🌟.</h3>
+<h3 align="center">Full Stack Developer🌟.</h3>
 
 
 
@@ -12,16 +12,16 @@
 </a>
 <p><img align="right" src="https://github.com/Ahmad495/Ahmad495/blob/main/animation_500_kxa883sd.gif" alt="Ahmad495" /></p>
 
-- 🌱 I’m currently working as a Full Stack Developer at Bitnine
+- 🌱 I’m currently working as a Full Stack Developer
 
-- 📫 How to reach me *ahmad.mehmood.agha@gmail.com*
+- 📫 How to reach me *abubakar.80187@gmail.com*
 <br>
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/amdagha/" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/abu-bakar00" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Ahmad495" height="30" width="40" /></a>
 </p>
@@ -58,17 +58,17 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad495&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Ahmad495" 
+    alt="AbuBakar0-0" 
     bg_color=#808080/></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad495&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Ahmad495" /></p>
+    alt="AbuBakar0-0" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad495&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad495" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad495&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AbuBakar0-0" /></p>
       
 
 [Ahmad495](https://github.com/Ahmad495)
