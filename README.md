@@ -8,14 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar0-0&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar0-0" /> </p>
 
-
-- 🔭 I’m currently working on [a classified website](https://comerzio.fly.dev/)
-
-- 🌱 I’m currently learning **Next JS, Typescript, Nest JS**
-
 - 👨‍💻 All of my projects are available at [https://akcesse.com](https://akcesse.com)
 
-- 💬 Ask me about **MERN Stack, PHP, WordPress, JavaScript**
+- 💬 Ask me about **MERN Stack,Next JS, PHP, WordPress, JavaScript**
 
 - 📫 How to reach me **abubakar.80187@gmail.com**
 
